@@ -1,0 +1,17 @@
+{
+    "name": "ales/calico-wp",
+    "authors": [
+        {
+            "name": "Ales Kozina",
+            "email": "kozina.ales@gmail.com"
+        }
+    ],
+    "require": {
+        "johnpbloch/wordpress-core-installer": "1.0.0.2",
+        "johnpbloch/wordpress": "^4.9",
+        "vlucas/phpdotenv": "^2.4"
+    },
+    "extra": {
+        "wordpress-install-dir": "wp"
+    }
+}
